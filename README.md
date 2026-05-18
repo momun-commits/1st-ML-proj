@@ -4,7 +4,6 @@ Solubility Prediction using Machine Learning
 
 This project demonstrates a simple machine learning workflow to predict the aqueous solubility of chemical compounds (logS values) based on molecular descriptors.
 
-The dataset used is the Delaney solubility dataset, which contains chemical descriptors and experimental solubility values.
 
 📂 Dataset
 
